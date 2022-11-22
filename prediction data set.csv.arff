@@ -1,0 +1,128 @@
+@relation 'train data set'
+
+@attribute 'Favorite Color' {Cool,Neutral,Warm}
+@attribute 'Favorite Music Genre' {Rock,'Hip hop',Folk,Jazz,Pop,Electronic,'R&B and soul',Jazz/Blues}
+@attribute 'Favorite Beverage' {Vodka,Wine,Whiskey,'Not drink',Beer,Other}
+@attribute 'Favorite Soft Drink' {7UP/Sprite,'Coca Cola/Pepsi',Fanta,Other}
+@attribute Gender {Female,Male}
+
+@data
+Cool,Rock,Vodka,7UP/Sprite,Female
+Neutral,'Hip hop',Vodka,'Coca Cola/Pepsi',Female
+Warm,Rock,Wine,'Coca Cola/Pepsi',Female
+Warm,Folk,Whiskey,Fanta,Female
+Cool,Rock,Vodka,'Coca Cola/Pepsi',Female
+Warm,Jazz,'Not drink',Fanta,Female
+Cool,Pop,Beer,'Coca Cola/Pepsi',Female
+Warm,Pop,Whiskey,Fanta,Female
+Warm,Rock,Other,7UP/Sprite,Female
+Neutral,Pop,Wine,'Coca Cola/Pepsi',Female
+Cool,Pop,Other,7UP/Sprite,Female
+Warm,Pop,Other,7UP/Sprite,Female
+Warm,Pop,Wine,7UP/Sprite,Female
+Warm,Electronic,Wine,'Coca Cola/Pepsi',Female
+Cool,Rock,Beer,'Coca Cola/Pepsi',Female
+Warm,Jazz,Wine,'Coca Cola/Pepsi',Female
+Cool,Pop,Wine,7UP/Sprite,Female
+Cool,Rock,Other,'Coca Cola/Pepsi',Female
+Cool,Rock,Other,'Coca Cola/Pepsi',Female
+Cool,Pop,'Not drink',7UP/Sprite,Female
+Cool,Pop,Beer,Fanta,Female
+Warm,Jazz,Whiskey,Fanta,Female
+Cool,Rock,Vodka,'Coca Cola/Pepsi',Female
+Warm,Pop,Other,'Coca Cola/Pepsi',Female
+Cool,Folk,Whiskey,7UP/Sprite,Female
+Warm,'R&B and soul',Whiskey,'Coca Cola/Pepsi',Female
+Cool,Pop,Beer,Other,Female
+Cool,Pop,'Not drink',Other,Female
+Cool,Pop,'Not drink','Coca Cola/Pepsi',Female
+Cool,Electronic,'Not drink',Fanta,Female
+Warm,Rock,Other,'Coca Cola/Pepsi',Female
+Neutral,Rock,Beer,'Coca Cola/Pepsi',Female
+Cool,'R&B and soul',Beer,'Coca Cola/Pepsi',Female
+Warm,'R&B and soul',Wine,Other,Male
+Neutral,'Hip hop',Beer,7UP/Sprite,Male
+Warm,Electronic,Other,'Coca Cola/Pepsi',Male
+Neutral,Rock,'Not drink','Coca Cola/Pepsi',Male
+Cool,Pop,Other,Fanta,Male
+Cool,Pop,Whiskey,Fanta,Male
+Warm,Rock,Vodka,7UP/Sprite,Male
+Cool,Rock,Vodka,'Coca Cola/Pepsi',Male
+Neutral,Pop,'Not drink',7UP/Sprite,Male
+Warm,'R&B and soul','Not drink','Coca Cola/Pepsi',Male
+Cool,Rock,Wine,7UP/Sprite,Male
+Cool,Folk,Beer,Other,Male
+Cool,'Hip hop',Beer,'Coca Cola/Pepsi',Male
+Cool,'Hip hop',Wine,'Coca Cola/Pepsi',Male
+Cool,'R&B and soul',Whiskey,7UP/Sprite,Male
+Cool,Rock,'Not drink',Other,Male
+Warm,'Hip hop',Beer,'Coca Cola/Pepsi',Male
+Cool,'R&B and soul','Not drink','Coca Cola/Pepsi',Male
+Cool,Rock,'Not drink','Coca Cola/Pepsi',Male
+Cool,'Hip hop','Not drink',Other,Male
+Warm,Rock,Beer,Fanta,Male
+Cool,Electronic,'Not drink',Fanta,Male
+Cool,Electronic,Other,Fanta,Male
+Warm,Folk,Other,Fanta,Male
+Warm,Electronic,Vodka,Fanta,Male
+Warm,Jazz,Vodka,'Coca Cola/Pepsi',Male
+Cool,Pop,Whiskey,Other,Male
+Cool,Electronic,Whiskey,'Coca Cola/Pepsi',Male
+Cool,Rock,Vodka,'Coca Cola/Pepsi',Male
+Cool,'Hip hop',Beer,'Coca Cola/Pepsi',Male
+Neutral,'Hip hop','Not drink',Fanta,Male
+Cool,Rock,Wine,'Coca Cola/Pepsi',Male
+Cool,Electronic,Beer,'Coca Cola/Pepsi',Male
+Warm,Rock,Beer,7UP/Sprite,Female
+Neutral,'Hip hop',Whiskey,7UP/Sprite,Female
+Cool,Rock,Other,'Coca Cola/Pepsi',Female
+Warm,Folk,Wine,'Coca Cola/Pepsi',Female
+Warm,Rock,Other,'Coca Cola/Pepsi',Female
+Warm,Jazz/Blues,Other,7UP/Sprite,Female
+Cool,Pop,Wine,'Coca Cola/Pepsi',Female
+Warm,Pop,Wine,'Coca Cola/Pepsi',Female
+Cool,Rock,Beer,7UP/Sprite,Female
+Cool,Pop,Wine,Fanta,Female
+Cool,Pop,Wine,Fanta,Female
+Cool,Pop,Other,'Coca Cola/Pepsi',Female
+Cool,Pop,Other,'Coca Cola/Pepsi',Female
+Warm,Electronic,'Not drink',7UP/Sprite,Female
+Cool,Rock,Beer,'Coca Cola/Pepsi',Female
+Warm,Jazz,Whiskey,Other,Female
+Cool,Pop,Vodka,Other,Female
+Warm,Rock,Other,'Coca Cola/Pepsi',Female
+Cool,Rock,Whiskey,Fanta,Female
+Cool,Pop,Whiskey,'Coca Cola/Pepsi',Female
+Cool,Pop,Beer,'Coca Cola/Pepsi',Female
+Cool,Jazz,'Not drink','Coca Cola/Pepsi',Female
+Warm,Rock,'Not drink',Other,Male
+Neutral,Pop,'Not drink',7UP/Sprite,Male
+Cool,Folk,Other,'Coca Cola/Pepsi',Male
+Warm,'R&B and soul',Beer,'Coca Cola/Pepsi',Male
+Neutral,Pop,Beer,Fanta,Male
+Warm,Pop,Wine,Fanta,Male
+Neutral,Pop,Beer,7UP/Sprite,Male
+Cool,Electronic,Other,'Coca Cola/Pepsi',Male
+Cool,Rock,'Not drink',7UP/Sprite,Male
+Warm,Rock,Other,'Coca Cola/Pepsi',Male
+Cool,'R&B and soul',Whiskey,7UP/Sprite,Male
+Neutral,'R&B and soul',Vodka,Other,Male
+Warm,'Hip hop',Vodka,'Coca Cola/Pepsi',Male
+Cool,Electronic,'Not drink','Coca Cola/Pepsi',Male
+Cool,Rock,'Not drink',7UP/Sprite,Male
+Cool,Pop,Wine,Other,Male
+Cool,Pop,Beer,'Coca Cola/Pepsi',Male
+Cool,Rock,Beer,'Coca Cola/Pepsi',Male
+Cool,Rock,Wine,'Coca Cola/Pepsi',Male
+Warm,Pop,Whiskey,Other,Female
+Cool,'R&B and soul','Not drink',Fanta,Female
+Cool,Rock,Beer,Fanta,Female
+Cool,Folk,'Not drink',Fanta,Female
+Warm,'Hip hop','Not drink',Fanta,Female
+Cool,'Hip hop','Not drink',Fanta,Female
+Cool,'R&B and soul',Beer,'Coca Cola/Pepsi',Female
+Warm,Rock,'Not drink',Other,Female
+Warm,'Hip hop',Other,'Coca Cola/Pepsi',Female
+Warm,'R&B and soul',Other,'Coca Cola/Pepsi',Male
+Cool,Rock,Vodka,'Coca Cola/Pepsi',Male
+Cool,'Hip hop',Vodka,Fanta,Male
